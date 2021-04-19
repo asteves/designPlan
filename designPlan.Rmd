@@ -1,0 +1,40 @@
+---
+title: "Design Plan Example"
+author: "AUTHOR"
+date: "`r Sys.Date()`"
+output: pdf_document
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Overview 
+
+This RMarkdown file is a basic template for a design plan. A design plan is a simple way to write down and work out the basics of a research design before moving on to the specific estimation goals. Here are a set of template questions that you can work through, but every researcher is encouraged to customize their questions to the project at hand. 
+
+## Question 1: What kind of project is this?
+
+Is it a descriptive research project? Is it a prediction project? Is it a project to learn about a causal relationship between two variables? 
+
+## Question 2: Why am I interested in this project?
+
+What speaks to me about the project? If it's a class project, how can I find personal enjoyment and meaning in the project? If it is for work, what benefit will I and potentially my employer see because of this work? If it is for an academic project, what will I learn that will change my view about how the world works?
+
+## Question 3: What is the target estimand of interest?
+
+In one sentence, what is the specific target goal of this research? Often we can phrase this for causal analysis as "What is the effect of X on Y?" 
+
+Answering this question helps to answer the following question. 
+
+## Question 4: What would be my ideal target population if I could choose any target population?
+
+A target population helps determine our ideal experiment and sets up what limitations may exist when we take our project to actual data. 
+
+## Question 5: What is the most straightforward piece of evidence I could find to convince myself that I have identified something interesting?
+
+Starting with the simplest answers cuts away potential cruft that is unnecessary to our question. 
+
+
+These five questions provide a solid starting point for any research project. Each of them will have payoffs down the line, either for implementation, presentation, and evaluation. 
